@@ -1,0 +1,18 @@
+/* Badge notification */
+.badge-notification {
+  top: -0.8rem;
+  left: -1rem;
+  position: relative;
+  font-size: 65%;
+  vertical-align: baseline;
+}
+
+/* Dropdown toggle */
+.hidden-arrow .dropdown-toggle::after {
+  content: none;
+}
+
+/* Background Primary */
+.bg-light {
+  background: #f0f2f5 !important;
+}
